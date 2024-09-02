@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MGS Software.<br>🌱 I’m currently learning more about Front End Developer.<br>🤔 I’m looking for help with Exploring New Technologies.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - beyzanursenocak96@gmail.com<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I love cats.
+🌱 I’m currently learning more about Front End Developer.<br>🤔 I’m looking for help with Exploring New Technologies.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - beyzanursenocak96@gmail.com<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I love cats.
 
 
 ## 🌐 Socials:
